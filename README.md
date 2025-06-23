@@ -6,7 +6,8 @@ Estudante de TI | Suporte de Sistemas | Em formação para me tornar Desenvolved
 🌱 Em desenvolvimento de habilidades em lógica de programação, SQL e desenvolvimento web  
 🔍 Interesse em transição para a área de desenvolvimento
 💡 Curiosa, dedicada e sempre buscando aprender algo novo   
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/izabella-francisca-lages-da-silva-69409b369/)  
+📫 Conecte-se comigo no [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/izabellafrlds/)
+
 🚀 Iniciando minha trajetória na área de desenvolvimento, com foco em aprendizado e evolução constante.  
 Sempre aberta a compartilhar aprendizados e ouvir quem já trilha esse caminho.
 Obrigada por visitar meu perfil.
